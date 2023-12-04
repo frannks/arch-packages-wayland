@@ -41,4 +41,4 @@ sudo pacman -S hyprland \
   hyprpaper \
   grim \
   slurp \
-  wl-clipboard --noconfirm
+  wl-clipboard
