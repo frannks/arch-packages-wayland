@@ -6,7 +6,8 @@
 clear
 sudo pacman -S hyprland \
   wayland \
-  firefox \
+  xorg-xwayland \
+  firefox-i18n-pt-br \
   git \
   kitty \
   dunst \
@@ -16,9 +17,12 @@ sudo pacman -S hyprland \
   pipewire-pulse \
   polkit-gnome \
   ttf-font-awesome \
+  ttf-fira-code \
+  ttf-jetbrains-mono \
+  ttf-dejavu \
   waybar \
+  rofi
   wireplumber \
-  wofi \
   xdg-desktop-portal-hyprland \
   bitwarden \
   wine-staging \
@@ -34,7 +38,7 @@ sudo pacman -S hyprland \
   dosfstools \
   npm \
   swaylock \
-  swaybg \
+  hyprpaper \
   grim \
   slurp \
   wl-clipboard --noconfirm
