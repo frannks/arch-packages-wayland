@@ -9,6 +9,7 @@ sudo pacman -S hyprland \
   xorg-xwayland \
   firefox-i18n-pt-br \
   git \
+  neofetch \
   kitty \
   dunst \
   pavucontrol \
