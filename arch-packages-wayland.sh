@@ -22,7 +22,7 @@ sudo pacman -S hyprland \
   ttf-jetbrains-mono \
   ttf-dejavu \
   waybar \
-  rofi
+  rofi \
   wireplumber \
   xdg-desktop-portal-hyprland \
   bitwarden \
@@ -42,4 +42,4 @@ sudo pacman -S hyprland \
   hyprpaper \
   grim \
   slurp \
-  wl-clipboard
+  wl-clipboard \
