@@ -38,8 +38,8 @@ sudo pacman -S hyprland \
   streamlink \
   dosfstools \
   npm \
-  swaylock \
   hyprpaper \
   grim \
   slurp \
-  wl-clipboard \
+  ytfzf \
+  wl-clipboard --noconfirm
