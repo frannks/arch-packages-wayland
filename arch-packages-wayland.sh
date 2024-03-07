@@ -42,4 +42,5 @@ sudo pacman -S hyprland \
   grim \
   slurp \
   ytfzf \
+  usbutils \
   wl-clipboard --noconfirm
