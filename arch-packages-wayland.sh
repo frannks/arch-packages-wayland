@@ -7,6 +7,7 @@ clear
 sudo pacman -S hyprland \
   wayland \
   xorg-xwayland \
+  xf86-video-amdgpu \
   firefox-i18n-pt-br \
   git \
   neofetch \
