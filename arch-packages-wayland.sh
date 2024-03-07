@@ -43,4 +43,6 @@ sudo pacman -S hyprland \
   slurp \
   ytfzf \
   usbutils \
+  zathura \
+  zathura-pdf-poppler \
   wl-clipboard --noconfirm
