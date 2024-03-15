@@ -10,7 +10,6 @@ sudo pacman -S hyprland \
   xf86-video-amdgpu \
   firefox-i18n-pt-br \
   git \
-  neofetch \
   kitty \
   dunst \
   pavucontrol \
