@@ -45,4 +45,7 @@ sudo pacman -S hyprland \
   usbutils \
   zathura \
   zathura-pdf-poppler \
+  thunderbird \
+  thunderbird-dark-reader \
+  thunderbird-i18n-pt-br \
   wl-clipboard --noconfirm
