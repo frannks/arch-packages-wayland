@@ -22,7 +22,7 @@ sudo pacman -S hyprland \
   ttf-jetbrains-mono \
   ttf-dejavu \
   waybar \
-  rofi \
+  wofi \
   wireplumber \
   xdg-desktop-portal-hyprland \
   bitwarden \
