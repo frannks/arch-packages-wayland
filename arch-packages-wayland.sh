@@ -16,11 +16,6 @@ sudo pacman -S hyprland \
   pipewire \
   pipewire-alsa \
   pipewire-pulse \
-  polkit-gnome \
-  ttf-font-awesome \
-  ttf-fira-code \
-  ttf-jetbrains-mono \
-  ttf-dejavu \
   waybar \
   wofi \
   wireplumber \
@@ -32,10 +27,8 @@ sudo pacman -S hyprland \
   catimg \
   mangohud \
   lib32-mangohud \
-  gamemode \
+  gamescope \
   lib32-gamemode \
-  spotifyd \
-  streamlink \
   dosfstools \
   npm \
   hyprpaper \
