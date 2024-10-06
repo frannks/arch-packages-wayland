@@ -15,10 +15,6 @@ sudo pacman -S hyprland \
   base-devel \
   polkit-gnome \
   hyprpaper \
-  grim \
   slurp \
-  ytfzf \
   usbutils \
-  zathura \
-  zathura-pdf-poppler \
   wl-clipboard --noconfirm
